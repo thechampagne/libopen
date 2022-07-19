@@ -1,0 +1,19 @@
+[package]
+name = "open"
+version = "1.0.0"
+description = "Open a path or URL with the system-defined program"
+authors = ["XXIV"]
+homepage = "https://github.com/thechampagne/libopen"
+repository = "https://github.com/thechampagne/libopen"
+readme = "README.md"
+license = "MIT"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+name = "open"
+crate-type =["dylib","staticlib"]
+
+[dependencies]
+open = "3.0.2"
