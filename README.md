@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/github/v/tag/thechampagne/libopen?label=version)](https://github.com/thechampagne/libopen/releases/latest) [![](https://img.shields.io/github/license/thechampagne/libopen)](https://github.com/thechampagne/libopen/blob/main/LICENSE)
 
-Open a path or URL with the system-defined program.
+A **C** library to Open a path or URL with the system-defined program.
 
 ### Installation & Setup
 
